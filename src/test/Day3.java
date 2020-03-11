@@ -7,7 +7,7 @@ public class Day3 {
 	@Test
 	public void webCarLoanLogin()
 	{
-		System.out.println("This is webCarLogin");
+		System.out.println("This is webCarLogin (manoj)");
 	}
 	
 	@Test
