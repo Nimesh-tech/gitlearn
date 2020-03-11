@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-09T13:11:29 CDT" name="Default suite" finished-at="2020-03-09T13:11:29 CDT" duration-ms="113">
+    <groups>
+      <group name="Smoke">
+        <method signature="Day3.apiCarLoanLogin()[pri:0, instance:test.Day3@77e9807f]" name="apiCarLoanLogin" class="test.Day3"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2020-03-09T13:11:29 CDT" name="Default test" finished-at="2020-03-09T13:11:29 CDT" duration-ms="113">
+      <class name="test.Day3">
+        <test-method signature="MobileCarLoanLogin()[pri:0, instance:test.Day3@77e9807f]" started-at="2020-03-09T13:11:29 CDT" name="MobileCarLoanLogin" finished-at="2020-03-09T13:11:29 CDT" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCarLoanLogin -->
+        <test-method signature="MobileCarLoanLogout()[pri:0, instance:test.Day3@77e9807f]" started-at="2020-03-09T13:11:29 CDT" name="MobileCarLoanLogout" finished-at="2020-03-09T13:11:29 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileCarLoanLogout -->
+        <test-method signature="apiCarLoanLogin()[pri:0, instance:test.Day3@77e9807f]" started-at="2020-03-09T13:11:29 CDT" name="apiCarLoanLogin" finished-at="2020-03-09T13:11:29 CDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiCarLoanLogin -->
+        <test-method signature="webCarLoanLogin()[pri:0, instance:test.Day3@77e9807f]" started-at="2020-03-09T13:11:29 CDT" name="webCarLoanLogin" finished-at="2020-03-09T13:11:29 CDT" duration-ms="4" status="PASS">
+=======
 <testng-results ignored="7" total="11" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
@@ -32,10 +58,11 @@
       </class> <!-- test.Day3 -->
       <class name="test.Day4">
         <test-method signature="mobileHomeLoanLogin()[pri:0, instance:test.Day4@3c153a1]" started-at="2020-03-10T11:59:18 CDT" name="mobileHomeLoanLogin" finished-at="2020-03-10T11:59:18 CDT" duration-ms="1" status="PASS">
+>>>>>>> d10bb338002785256930d0af28d76ae20d2447ee
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- mobileHomeLoanLogin -->
-      </class> <!-- test.Day4 -->
-    </test> <!-- Personal Loan  -->
-  </suite> <!-- Loan Department -->
+        </test-method> <!-- webCarLoanLogin -->
+      </class> <!-- test.Day3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
