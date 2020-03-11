@@ -7,18 +7,20 @@ public class Day4 {
 	@Test
 	public void webHomeLoanLogin()
 	{
-		System.out.println("This is webCarLogin");
+		System.out.println("gitlearn");
 	}
 	
 	@Test(groups= {"Smoke"})
 	public void mobileHomeLoanLogin()	{
-		System.out.println("This is webCarLogin");
+		System.out.println("gitlearn");
+		System.out.println("my name is bishnu");
 	}
 	
 	@Test
 	public void apiHomeLoanLogin()
 	{
-		System.out.println("This is webCarLogin");
+		System.out.println("gitlearn");
+		System.out.println("my name is bishnu");
 	}
 
 }
