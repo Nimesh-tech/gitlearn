@@ -16,4 +16,9 @@ public class Day1 {
 		System.out.println("Personal Loan Two");
 	}
 
+	@Test
+	public void Demo3()
+	{
+		System.out.println("Natneal");
+	}
 }
