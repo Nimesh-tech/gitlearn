@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="7" total="11" passed="4">
+<testng-results ignored="7" total="11" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Loan Department" duration-ms="56" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+  <suite started-at="2020-03-10T11:59:18 CDT" name="Loan Department" finished-at="2020-03-10T11:59:18 CDT" duration-ms="37">
     <groups>
       <group name="Smoke">
-        <method signature="Day1.Demo1()[pri:0, instance:test.Day1@5ec0a365]" name="Demo1" class="test.Day1"/>
-        <method signature="Day2.DemoDay22()[pri:0, instance:test.Day2@78c03f1f]" name="DemoDay22" class="test.Day2"/>
-        <method signature="Day3.apiCarLoanLogin()[pri:0, instance:test.Day3@4fe3c938]" name="apiCarLoanLogin" class="test.Day3"/>
-        <method signature="Day4.mobileHomeLoanLogin()[pri:0, instance:test.Day4@5383967b]" name="mobileHomeLoanLogin" class="test.Day4"/>
+        <method signature="Day1.Demo1()[pri:0, instance:test.Day1@5ad851c9]" name="Demo1" class="test.Day1"/>
+        <method signature="Day2.DemoDay22()[pri:0, instance:test.Day2@5c1a8622]" name="DemoDay22" class="test.Day2"/>
+        <method signature="Day3.apiCarLoanLogin()[pri:0, instance:test.Day3@6156496]" name="apiCarLoanLogin" class="test.Day3"/>
+        <method signature="Day4.mobileHomeLoanLogin()[pri:0, instance:test.Day4@3c153a1]" name="mobileHomeLoanLogin" class="test.Day4"/>
       </group> <!-- Smoke -->
     </groups>
-    <test name="Personal Loan " duration-ms="56" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+    <test started-at="2020-03-10T11:59:18 CDT" name="Personal Loan " finished-at="2020-03-10T11:59:18 CDT" duration-ms="37">
       <class name="test.Day1">
-        <test-method status="PASS" signature="Demo1()[pri:0, instance:test.Day1@5ec0a365]" name="Demo1" duration-ms="0" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+        <test-method signature="Demo1()[pri:0, instance:test.Day1@5ad851c9]" started-at="2020-03-10T11:59:18 CDT" name="Demo1" finished-at="2020-03-10T11:59:18 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Demo1 -->
       </class> <!-- test.Day1 -->
       <class name="test.Day2">
-        <test-method status="PASS" signature="DemoDay22()[pri:0, instance:test.Day2@78c03f1f]" name="DemoDay22" duration-ms="15" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+        <test-method signature="DemoDay22()[pri:0, instance:test.Day2@5c1a8622]" started-at="2020-03-10T11:59:18 CDT" name="DemoDay22" finished-at="2020-03-10T11:59:18 CDT" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DemoDay22 -->
       </class> <!-- test.Day2 -->
       <class name="test.Day3">
-        <test-method status="PASS" signature="apiCarLoanLogin()[pri:0, instance:test.Day3@4fe3c938]" name="apiCarLoanLogin" duration-ms="0" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+        <test-method signature="apiCarLoanLogin()[pri:0, instance:test.Day3@6156496]" started-at="2020-03-10T11:59:18 CDT" name="apiCarLoanLogin" finished-at="2020-03-10T11:59:18 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiCarLoanLogin -->
       </class> <!-- test.Day3 -->
       <class name="test.Day4">
-        <test-method status="PASS" signature="mobileHomeLoanLogin()[pri:0, instance:test.Day4@5383967b]" name="mobileHomeLoanLogin" duration-ms="0" started-at="2020-03-09T10:06:43 PDT" finished-at="2020-03-09T10:06:43 PDT">
+        <test-method signature="mobileHomeLoanLogin()[pri:0, instance:test.Day4@3c153a1]" started-at="2020-03-10T11:59:18 CDT" name="mobileHomeLoanLogin" finished-at="2020-03-10T11:59:18 CDT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mobileHomeLoanLogin -->
