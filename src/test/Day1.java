@@ -21,4 +21,11 @@ public class Day1 {
 	{
 		System.out.println("Natneal");
 	}
+	
+	@Test
+	public void demo4()
+	{
+	System.out.println("Natty is my nick name");
+	
+}
 }
