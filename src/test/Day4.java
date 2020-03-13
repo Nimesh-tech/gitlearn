@@ -22,5 +22,12 @@ public class Day4 {
 		System.out.println("gitlearn");
 		System.out.println("my name is bishnu");
 	}
+	
+	@Test
+	public void apiHomeLoanLogin1()
+	{
+		System.out.println("gitlearnnnnnnn");
+		System.out.println("my name is bishnudskfjksdjf");
+	}
 
 }
