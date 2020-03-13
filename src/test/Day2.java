@@ -8,8 +8,12 @@ public class Day2 {
 	public void DemoDay21()
 	{
 
+		System.out.println("Personal Loan (Shuravi)");
+
+
 		System.out.println("Personal Loan three (manoj)");
 		System.out.println("Personal Loan (Gautam)");
+
 
 	}
 	
