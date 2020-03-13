@@ -26,7 +26,7 @@ public class Day3 {
 	@Test(groups= {"Smoke"})
 	public void apiCarLoanLogin()
 	{
-		System.out.println("This is ApiCarLogin This is gitlearn");
+		System.out.println("This is ApiCarLogin This is git learn practice");
 	}
 	
 
