@@ -25,7 +25,7 @@ public class Day1 {
 	@Test
 	public void demo4()
 	{
-	System.out.println("Natty is my nick name manoj is my name bishnu is my name");
+	System.out.println("Natty is my nick name manoj is my name bishnu is my name my name is hari");
 	
 }
 }
